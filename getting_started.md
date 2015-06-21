@@ -3,9 +3,6 @@ Online Resources To Get Started Coding
 
 ##Free:
 
-###Odin Project - [theodinproject.com](http://www.theodinproject.com/)
-The Odin Project is one of those "What I wish I had when I was learning" resources. Not everyone has access to a computer science education or the funds to attend an intensive coding school and neither of those is right for everyone anyway. This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education.
-
 ###Code Academy - [codecademy.com](http://www.codecademy.com)
 Teaching the world how to code.
 
@@ -17,6 +14,9 @@ Note that, for some courses, a verified certificate is $25, but you can still ta
 
 ###GA Dash - [generalassemb.ly](https://dash.generalassemb.ly)
 
+###Odin Project - [theodinproject.com](http://www.theodinproject.com/)
+The Odin Project is one of those "What I wish I had when I was learning" resources. Not everyone has access to a computer science education or the funds to attend an intensive coding school and neither of those is right for everyone anyway. This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education.
+
 ###PHP Academy - [phpacademy.org](https://phpacademy.org)
 
 ###Skills Crush - [skillcrush.com](http://skillcrush.com)
@@ -27,7 +27,7 @@ The University of Texas at Austin has a unique training program where individual
 
 ###W3 Schools - [w3schools.com](http://www.w3schools.com)
 
-
+---
 ##Paid:
 
 ###Code School - [codeschool.com](http://www.codeschool.com)
