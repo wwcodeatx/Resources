@@ -9,22 +9,29 @@ The Odin Project is one of those "What I wish I had when I was learning" resourc
 ###Code Academy - [codecademy.com](http://www.codecademy.com)
 Teaching the world how to code.
 
-###Skills Crush - [skillcrush.com](http://skillcrush.com)
-Skillcrush is an interactive online learning community for creatives, thinkers, and makers. Looking for a more lucrative and fulfilling job, to design new products, or even to kickstart a new venture? You’ve come to the right place.
+###Coursera - [coursera.org](http://www.coursera.org)
+Coursera is an education platform that partners with top universities and organizations worldwide, to offer courses online for anyone to take, for free.
 
-###W3 Schools - [w3schools.com](http://www.w3schools.com)
+###EdX - [edx.org/courses](https://www.edx.org/courses)
+Note that, for some courses, a verified certificate is $25, but you can still take the courses for free without the certificate.
 
 ###GA Dash - [generalassemb.ly](https://dash.generalassemb.ly)
 
 ###PHP Academy - [phpacademy.org](https://phpacademy.org)
 
-###EdX - [edx.org/courses](https://www.edx.org/courses)
-Note that, for some courses, a verified certificate is $25, but you can still take the courses for free without the certificate.
+###Skills Crush - [skillcrush.com](http://skillcrush.com)
+Skillcrush is an interactive online learning community for creatives, thinkers, and makers. Looking for a more lucrative and fulfilling job, to design new products, or even to kickstart a new venture? You’ve come to the right place.
 
-###Coursera - [coursera.org](http://www.coursera.org)
-Coursera is an education platform that partners with top universities and organizations worldwide, to offer courses online for anyone to take, for free.
+###UT Software Developer Training Program - [UT Dev Training](http://www.utexas.edu/its/analyst-training)
+The University of Texas at Austin has a unique training program where individuals are trained on the job to become Software Developers.
+
+###W3 Schools - [w3schools.com](http://www.w3schools.com)
+
 
 ##Paid:
+
+###Code School - [codeschool.com](http://www.codeschool.com)
+Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.
 
 ###LendLayer - [lendlayer.com](https://lendlayer.com/)
 LendLayer provides financing options for students attending our selected partner developer bootcamp schools.
@@ -34,6 +41,3 @@ lynda.com is a leading online learning company that helps anyone learn business,
 
 ###Pluralsight - [pluralsight.com](http://www.pluralsight.com)
 Unlimited online developer and IT courses, starting at $29 per month with new training daily.
-
-###Code School - [codeschool.com](http://www.codeschool.com)
-Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.
