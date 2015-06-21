@@ -9,10 +9,10 @@ Don't know where to start? Check out these online tutorials, classes and code sc
 Want to sponsor us? Need help with your resume? Looking for an after school coding program? These people have your answers!
 
 ###[Who Hires Jr. Devs/Interns?](jr_dev_companies.md)
-Find out what companies hire junior developers and interns.
+Austin companies that hire junior developers and interns.
 
 ###[Job Hunting Resources](job_hunting_resources.md)
-Local tech meetups for networking. Career coaching.
+Network at local tech meetups. Find career coaching.
 
 ###[Local Recruiters](atx_recruiters.md)
-ATX recruiters that we trust.
+Austin recruiters that we trust.
