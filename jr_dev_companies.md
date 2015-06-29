@@ -13,6 +13,7 @@ WHO HIRES JR DEVS/INTERNS
 * [Academic Works](https://www.academicworks.com/)
 * [Aetna Health](https://www.aetna.com/about-us/aetna-careers.html)
 * [Athena Health](http://www.athenahealth.com/careers)
+* [BlackLocus](http://blacklocus.com/)
 * [Booz | Allen | Hamilton](http://www.boozallen.com/careers)
 * [Catapult Systems](http://www.catapultsystems.com/careers/job-opportunities)
 * [Charles Schwab](http://jobs.schwab.com/austin/texas/usa/jobs/)
