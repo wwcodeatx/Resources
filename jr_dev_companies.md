@@ -21,5 +21,4 @@ WHO HIRES JR DEVS/INTERNS
 * [Praxent (formally Astonish Design)](http://praxent.com/)
 * [Rackspace](http://rackspace.jobs/jobs/?location=austin%2C+tx&q=engineer+I)
 * [Razorfish](https://careers-razorfish.icims.com/jobs/search?ss=1&searchKeyword=&searchLocation=12781--Austin&searchCategory=&searchPositionType=&mobile=false&width=960&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300)
-* [ShipStation](http://www.shipstation.com/careers/)
 * [T3](http://www.t-3.com/about/#careers)
