@@ -18,6 +18,7 @@ WHO HIRES JR DEVS/INTERNS
 * [Catapult Systems](http://www.catapultsystems.com/careers/job-opportunities)
 * [Charles Schwab](http://jobs.schwab.com/austin/texas/usa/jobs/)
 * [Communication Services for the Deaf](http://www.csd.org/careers/)
+* [Edgecase.io](http://edgecase.io/about-us/careers/)
 * [Praxent (formally Astonish Design)](http://praxent.com/)
 * [Rackspace](http://rackspace.jobs/jobs/?location=austin%2C+tx&q=engineer+I)
 * [Razorfish](https://careers-razorfish.icims.com/jobs/search?ss=1&searchKeyword=&searchLocation=12781--Austin&searchCategory=&searchPositionType=&mobile=false&width=960&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300)
