@@ -16,3 +16,6 @@ Network at local tech meetups. Find career coaching.
 
 ###[Local Recruiters](atx_recruiters.md)
 Austin recruiters that we trust.
+
+###[What's A Hackathon?](hackathon.md)
+What's a hackathon? It's for you!
