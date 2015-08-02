@@ -14,5 +14,10 @@ Job Hunting Resources
 * [GirlDevelopIt(GDI) Austin](http://www.meetup.com/Girl-Develop-It-Austin)
 * [PyLadies ATX](http://www.meetup.com/PyLadies-ATX)
 
-##New Iron - Free Career Coaching
-Janelle Klein: [linkedin.com/in/janelleklein](https://www.linkedin.com/in/janelleklein)
+##Job Coaching
+* New Iron (Free Career Coaching with Janelle Klein) [linkedin.com/in/janelleklein](https://www.linkedin.com/in/janelleklein)
+
+##Job Boards
+* [Austin Digital Jobs](https://www.facebook.com/groups/austindigitaljobs/)
+* [Capital Factory Jobs](https://www.facebook.com/groups/capitalfactoryjobs/)
+* [Hirily](http://hirily.com/)
