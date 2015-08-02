@@ -18,7 +18,7 @@ Kelly Liles: [kelly_liles@oxfordcorp.com](mailto:kelly_liles@oxfordcorp.com)
 Katelyn Parker: [Katelyn@phoenixstaff.com](mailto:Katelyn@phoenixstaff.com)
 
 ###[recruitHER](http://www.recruither.io/)
-Info: [info@recruither.io](mailto:info@recruither.io)
+Gina Helfrich: [gina@recruither.io](mailto:gina@recruither.io)
 
 ###[Rackspace](http://rackspace.com)
 Carla Crull, Senior Technical Recruiter
