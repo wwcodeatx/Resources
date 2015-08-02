@@ -1,5 +1,12 @@
 Job Hunting Resources
 =========================
+##Job Boards
+* [Austin Digital Jobs](https://www.facebook.com/groups/austindigitaljobs/)
+* [Capital Factory Jobs](https://www.facebook.com/groups/capitalfactoryjobs/)
+* [Hirily](http://hirily.com/)
+
+##Job Coaching
+* New Iron (Free Career Coaching with Janelle Klein) [linkedin.com/in/janelleklein](https://www.linkedin.com/in/janelleklein)
 
 ##Meetups:
 * [ATXSass](http://www.meetup.com/ATXSass)
@@ -13,11 +20,3 @@ Job Hunting Resources
 * [Feminist Hack ATX](http://www.meetup.com/Feminist-Hack-ATX)
 * [GirlDevelopIt(GDI) Austin](http://www.meetup.com/Girl-Develop-It-Austin)
 * [PyLadies ATX](http://www.meetup.com/PyLadies-ATX)
-
-##Job Coaching
-* New Iron (Free Career Coaching with Janelle Klein) [linkedin.com/in/janelleklein](https://www.linkedin.com/in/janelleklein)
-
-##Job Boards
-* [Austin Digital Jobs](https://www.facebook.com/groups/austindigitaljobs/)
-* [Capital Factory Jobs](https://www.facebook.com/groups/capitalfactoryjobs/)
-* [Hirily](http://hirily.com/)
