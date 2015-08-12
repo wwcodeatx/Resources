@@ -1,7 +1,7 @@
 ATX Recruiters We Trust
 =========================
 
-###[Aetna Health](https://www.aetna.com/)
+###[Athena Health](https://www.aetna.com/)
 Sam Schatz, Senior Technical Recruiter
 617-402-8799 * [sschatz@athenahealth.com](mailto:sschatz@athenahealth.com)
 
