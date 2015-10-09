@@ -25,7 +25,7 @@ Kelly Liles: [kelly_liles@oxfordcorp.com](mailto:kelly_liles@oxfordcorp.com)
 Gina Helfrich: [gina@recruither.io](mailto:gina@recruither.io)
 
 ###[HireBetter](http://hirebetter.com/)
-Kimberley Patrick: [kimberley.patrick@HireBetter.com](mailto:kimberley.patrick@HireBetter.com)
+Kimberly Patrick: [kimberly.patrick@HireBetter.com](mailto:kimberly.patrick@HireBetter.com)
 
 ###[Rackspace](http://rackspace.com)
 Carla Crull, Senior Technical Recruiter
