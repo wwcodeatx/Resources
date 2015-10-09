@@ -18,8 +18,8 @@ Janelle Klein: [linkedin.com/in/janelleklein](https://www.linkedin.com/in/janell
 ###[Oxford & Associates](http://oxfordcorp.com/content/austin-tx)
 Kelly Liles: [kelly_liles@oxfordcorp.com](mailto:kelly_liles@oxfordcorp.com)
 
-###[Phoenix Staff, Inc.](http://www.phoenixstaff.com/)
-Katelyn Parker: [Katelyn@phoenixstaff.com](mailto:Katelyn@phoenixstaff.com)
+###[Katelyn Parker](kparklyn@gmail.com)
+[kparklyn@gmail.com](mailto:kparklyn@gmail.com)
 
 ###[recruitHER](http://www.recruither.io/)
 Gina Helfrich: [gina@recruither.io](mailto:gina@recruither.io)
