@@ -1,5 +1,8 @@
 ATX Recruiters We Trust
 =========================
+###[Maxpoint Interactive](http://www.maxpoint.com)
+Ashley Griffiths, Technical Recruiter
+[ashley.griffiths@maxpoint.com](mailto:ashley.griffiths@maxpoint.com)
 
 ###[Athena Health](https://www.aetna.com/)
 Sam Schatz, Senior Technical Recruiter
