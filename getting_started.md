@@ -30,8 +30,6 @@ The University of Texas at Austin has a unique training program where individual
 ###Code Quizzes - [codequizzes.com](http://www.codequizzes.com/)
 
 
-
-
 ---
 ##Paid:
 
