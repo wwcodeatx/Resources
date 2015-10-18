@@ -1,19 +1,30 @@
 ATX Recruiters We Trust
 =========================
-###[Maxpoint Interactive](http://www.maxpoint.com)
-Ashley Griffiths, Technical Recruiter
-[ashley.griffiths@maxpoint.com](mailto:ashley.griffiths@maxpoint.com)
+
 
 ###[Athena Health](https://www.aetna.com/)
 Sam Schatz, Senior Technical Recruiter
 617-402-8799 * [sschatz@athenahealth.com](mailto:sschatz@athenahealth.com)
 
+###[Catapult Systems](http://www.catapultsystems.com/)
+Amy ReCord, Senior Technical Recruiter
+[amy.record@catapultsystems.com](mailto:amy.record@catapultsystems.com)
+
+###[Experis IT](http://www.experis.com/)
+Elyse Longoria: [elyse.longoria@experis.com](mailto:elyse.longoria@experis.com)
+
+###[HireBetter](http://hirebetter.com/)
+Kimberly Patrick: [kimberly.patrick@HireBetter.com](mailto:kimberly.patrick@HireBetter.com)
+
 ###[HireStarter](http://www.hirestarter.com/)
 Emily Edgar Bakunas, Senior Recruiter
 [emily@hirestarter.com](mailto:emily@hirestarter.com)
 
-###[Experis IT](http://www.experis.com/)
-Elyse Longoria: [elyse.longoria@experis.com](mailto:elyse.longoria@experis.com)
+
+
+###[Maxpoint Interactive](http://www.maxpoint.com)
+Ashley Griffiths, Technical Recruiter
+[ashley.griffiths@maxpoint.com](mailto:ashley.griffiths@maxpoint.com)
 
 ###[New Iron - Free Career Coaching](http://www.newiron.com/)
 Janelle Klein: [linkedin.com/in/janelleklein](https://www.linkedin.com/in/janelleklein)
@@ -23,12 +34,6 @@ Kelly Liles: [kelly_liles@oxfordcorp.com](mailto:kelly_liles@oxfordcorp.com)
 
 ###[Katelyn Parker](kparklyn@gmail.com)
 [kparklyn@gmail.com](mailto:kparklyn@gmail.com)
-
-###[recruitHER](http://www.recruither.io/)
-Gina Helfrich: [gina@recruither.io](mailto:gina@recruither.io)
-
-###[HireBetter](http://hirebetter.com/)
-Kimberly Patrick: [kimberly.patrick@HireBetter.com](mailto:kimberly.patrick@HireBetter.com)
 
 ###[Rackspace](http://rackspace.com)
 Carla Crull, Senior Technical Recruiter
@@ -44,9 +49,14 @@ Chris Farrington: [chris.farrington@randstadusa.com](chris.farrington@randstadus
 Greg Pfaff, Senior Recruiter
 312-893-3375; [greg.pfaff@razorfish.com](mailto:greg.pfaff@razorfish.com)
 
+###[recruitHER](http://www.recruither.io/)
+Gina Helfrich: [gina@recruither.io](mailto:gina@recruither.io)
+
+###[SpareFoot](https://www.sparefoot.com/)
+Dee Dee Dials, Senior Recruiter
+[ddial@sparefoot.com](mailto:ddial@sparefoot.com)
+
 ###[Vitamin T](https://vitamintalent.com/)
 Renee Diaz: [rdiaz@vitamintalent.com](mailto:rdiaz@vitamintalent.com)
 
-###[Catapult Systems](http://www.catapultsystems.com/)
-Amy ReCord, Senior Technical Recruiter
-[amy.record@catapultsystems.com](mailto:amy.record@catapultsystems.com)
+
