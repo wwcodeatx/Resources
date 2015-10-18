@@ -14,6 +14,9 @@ Austin companies that hire junior developers and interns.
 ###[Job Hunting Resources](job_hunting_resources.md)
 Network at local tech meetups. Find career coaching.
 
+###[Other Awesome Austin Meetups](awesome_meetups.md)
+WWCodeATX is our favorite meetup -- but there are so many more in town that can help you reach your goals. Here are a few.
+
 ###[Local Recruiters](atx_recruiters.md)
 Austin recruiters that we trust.
 
