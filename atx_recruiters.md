@@ -20,7 +20,9 @@ Kimberly Patrick: [kimberly.patrick@HireBetter.com](mailto:kimberly.patrick@Hire
 Emily Edgar Bakunas, Senior Recruiter
 [emily@hirestarter.com](mailto:emily@hirestarter.com)
 
-
+###[IBM Design](http://www.ibm.com/design/)
+Elissa Dixit, Recruiting Lead
+[elissadixit@us.ibm.com](mailto:elissadixit@us.ibm.com)
 
 ###[Maxpoint Interactive](http://www.maxpoint.com)
 Ashley Griffiths, Technical Recruiter
