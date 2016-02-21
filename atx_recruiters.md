@@ -58,6 +58,9 @@ Gina Helfrich: [gina@recruither.io](mailto:gina@recruither.io)
 Dee Dee Dials, Senior Recruiter
 [ddial@sparefoot.com](mailto:ddial@sparefoot.com)
 
+###[LinkedIn](https://www.linkedin.com/company/linkedin/careers)
+Myron Fung: [mfung@linkedin.com](mailto:mfung@linkedin.com)
+
 ###[Vitamin T](https://vitamintalent.com/)
 Renee Diaz: [rdiaz@vitamintalent.com](mailto:rdiaz@vitamintalent.com)
 
