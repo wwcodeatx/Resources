@@ -54,6 +54,9 @@ Greg Pfaff, Senior Recruiter
 ###[recruitHER](http://www.recruither.io/)
 Gina Helfrich: [gina@recruither.io](mailto:gina@recruither.io)
 
+###[The HT Group](http://www.thehtgroup.com/)
+Suzie Jimenez: [suzie.jimenez@thehtgroup.com](mailto:suzie.jimenez@thehtgroup.com)
+
 ###[SpareFoot](https://www.sparefoot.com/)
 Dee Dee Dials, Senior Recruiter
 [ddial@sparefoot.com](mailto:ddial@sparefoot.com)
