@@ -1,7 +1,7 @@
 WHO HIRES JR DEVS/INTERNS
 =========================
 
-##Internships
+## Internships
 * [Aetna Health](https://www.aetna.com/about-us/student-programs/undergraduate-summer-internships.html)
 * [Dell](http://www.dell.com/learn/us/en/vn/undergraduate-students)
 * [FiServ](https://www.fiserv.com/about/careers.aspx)
@@ -9,9 +9,9 @@ WHO HIRES JR DEVS/INTERNS
 * [Retailmenot](https://www.retailmenot.com/corp/recruiting/)
 * [Sparefoot](https://www.sparefoot.com/)
 * [T3](http://www.t-3.com/about/)
- 
- 
-##Junior Dev Roles
+
+
+## Junior Dev Roles
 * [Academic Works](https://www.academicworks.com/)
 * [Aetna Health](https://www.aetna.com/about-us/aetna-careers.html)
 * [Athena Health](http://www.athenahealth.com/careers)
