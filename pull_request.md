@@ -10,7 +10,7 @@ To fork the repository:
 * Click on the 'fork' button.
 ![Image of the location of the fork button](./img/fork_button.png)
 
-* Next choose the account you want the fork to be cloned to.</br>
+* Next choose the account where you want the fork to be cloned.</br>
   (You may have less choices then I do. :wink:).
 ![Image of account choice dialog for fork](./img/fork_account_dialog.png)
 
@@ -26,8 +26,19 @@ Now you have a copy of the original organizational repository.  Clone it to your
 Before going any further though, we need to make sure our fork can get updates from the original repository.  This requires adding an upstream to the forks remote configuration.  GitHub has an easy to use tutorial on how to do this [here](https://help.github.com/en/articles/configuring-a-remote-for-a-fork).  Now we can get updates from the original repository as needed.
 
 ### Create a Features branch
-It is always a good idea to create a branch off master to do your work in.  A good practice is to name this branch after the feature or issue you are working on.  Do your work on this branch - making commits as you go along.
+It is always a good idea to create a branch off the master branch to do your work.  A good practice is to name this branch after the feature or issue you are working on.  Do your work on this branch - making commits as you go along.
 
 ### Create a Pull Request
-Once you are satisfied with your work, you can create a pull request against the original repository.  Github very handily does this for you when you push your updated code to your feature branch.
+Once you are satisfied with your work, you can create a pull request against the original repository.  The purpose of the pull request is to update the original repository with your code.
+
+Github very handily does this for you when you push your updated code to your feature branch.
 ![Image of pull request dialog](./img/pull_request_dialog.png)
+
+Clicking the button opens a form on the original repository page.  You can add an optional message about what is in your pull request.  Once you are done, click the "create pull request" button.
+![Image of pull request form](./img/pull_request_form.png)
+
+On this particular repository, an admin needs to review the pull request and merge it for you.
+![Image of merge dialog](./img/pull_request_merge_page.png)
+
+And we are merged.  Pull request success!
+![Image of final merge dialog](./img/final_merge.png)
