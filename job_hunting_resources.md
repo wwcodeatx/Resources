@@ -5,6 +5,9 @@ Job Hunting Resources
 * [Capital Factory Jobs](https://www.facebook.com/groups/capitalfactoryjobs/)
 * [Hirily](http://hirily.com/)
 
+## Online Career Tools
+* [JobEmerge](https://www.jobemerge.work) - AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal.
+
 ## Job Coaching
 * New Iron (Free Career Coaching with Janelle Klein) [linkedin.com/in/janelleklein](https://www.linkedin.com/in/janelleklein)
 
